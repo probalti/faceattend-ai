@@ -18,7 +18,7 @@ const PROFILE = {
   phone:      "+92 300 1234567",
   dept:       "Computer Science",
   semester:   "7th Semester",
-  batch:      "2021-2025",
+  batch:      "2022-2026",
   cgpa:       "3.85",
   facePhotos: 8,
   faceStatus: "trained",

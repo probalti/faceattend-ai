@@ -15,7 +15,7 @@ const TEAM = [
   {
     name:   "Zaffar Wasiya and Omama",
     role:   "Full Stack & AI Engineer",
-    desc:   "Final Year CS Student. Architected the complete AI pipeline, backend API, and all frontend dashboards.",
+    desc:   "Final Year SE Student. Architected the complete AI pipeline, backend API, and all frontend dashboards.",
     avatar: "ZA",
     color:  "#00f5ff",
     tags:   ["React", "FastAPI", "YOLOv8", "Node.js"],
@@ -24,7 +24,7 @@ const TEAM = [
   },
   {
     name:   "Project Supervisor",
-    role:   "Dr. Dr. S.M. Khalid Jamal",
+    role:   "Dr. S.M. Khalid Jamal",
     desc:   "Guided the AI model selection, system architecture design, and research methodology throughout the project.",
     avatar: "PS",
     color:  "#a855f7",
@@ -34,11 +34,11 @@ const TEAM = [
   },
   {
     name:   "University Of Karachi",
-    role:   "CS Department · FYP 2025",
-    desc:   "Final Year Project submitted to the Department of Computer Science as partial fulfillment of BSc CS.",
+    role:   "CS Department · FYP 2026",
+    desc:   "Final Year Project submitted to the Department of Computer Science as partial fulfillment of BSc SE.",
     avatar: "UNI",
     color:  "#3b82f6",
-    tags:   ["FYP 2025", "CS Department", "Gold Medal"],
+    tags:   ["FYP 2026", "CS Department", "Academic Project"],
     github: null,
     linkedin: null,
   },
