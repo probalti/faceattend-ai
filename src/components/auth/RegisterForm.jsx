@@ -128,7 +128,7 @@ export default function RegisterForm({ onSuccess }) {
         label="Full Name"
         value={name}
         onChange={(e) => setName(e.target.value)}
-        placeholder="Muhammad Zaffar Wasiya and Omama"
+        placeholder="Zaffar Wasiya and Omama"
         icon={<Icons.User className="w-4 h-4" />}
         accentColor={accent}
       />
